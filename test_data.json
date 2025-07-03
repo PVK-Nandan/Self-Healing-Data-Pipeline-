@@ -1,0 +1,7 @@
+[
+    {"email": "invalid-email", "age": "25"},
+    {"email": "missing.at.com", "age": "17"},
+    {"email": "valid@example.com", "age": "150"},
+    {"email": "spaces @ domain .com", "age": "thirty"},
+    {"name": "Test User", "age": "30"}
+]
