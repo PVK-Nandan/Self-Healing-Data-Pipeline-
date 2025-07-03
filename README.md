@@ -90,7 +90,7 @@ python main.py
 ## 👤 Author
 
 **Nandan Patnaik**  
-📧 your.email@example.com  
+📧 pakkinandan09@gmail.com  
 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nandan-pakki-v-k-01639b253))  
 
 ---
